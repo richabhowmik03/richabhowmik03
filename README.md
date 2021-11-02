@@ -4,6 +4,9 @@
 - 🌱 I’m currently learning to talk in Python
 - 📫 How to reach me [:email:](contact.richabhowmik@gmail.com)
 <!--
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=richabhowmik03)](https://github.com/richabhowmik03/github-readme-stats) -->
+
+<!--
 [![Richa's GitHub stats](https://github-readme-stats.vercel.app/api?username=richabhowmik03)](https://github.com/richabhowmik03/github-readme-stats)
 
 -->
