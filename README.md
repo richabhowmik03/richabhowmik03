@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @richabhowmik03
 - 👀 I’m interested in AI || Reinforcement Learning 
-- :smile_cat: NIT-A ME Undergrad '24 || Freelance Writer
-- 🌱 I’m currently learning to talk in Python
+- :smile_cat: NIT-A ME Undergrad '24 || Freelance Programmer || Data Enthusiast
+- 🌱 Well versed in building using Python, manipulating databases using PostgreSQL
 - 📫 How to reach me [:email:](mailto:contact.richabhowmik@gmail.com)
 <!--
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=richabhowmik03)](https://github.com/richabhowmik03/github-readme-stats) -->
